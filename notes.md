@@ -79,7 +79,7 @@ This is a core React principle, not just a To-Do trick.
 
 This project always uses functional updates, like:
 
-setTodos(prev => ...)
+*setTodos(prev => ...)*
 
 
 This is not optional.
